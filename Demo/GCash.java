@@ -1,3 +1,4 @@
+package Demo;
 public class GCash implements PaymentType {
     public String calculatePayment(){
         String output = new String();
